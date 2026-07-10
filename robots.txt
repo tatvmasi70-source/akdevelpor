@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tatvmasi70-source.github.io/ak website develpor/sitemap.xml
