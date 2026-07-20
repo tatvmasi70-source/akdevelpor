@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://tatvmasi70-source.github.io/ak website develpor/</loc>
+    <loc>https://tatvmasi70-source.github.io/akdevelpor/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://tatvmasi70-source.github.io/ak website develpor/about.html</loc>
+    <loc>https://tatvmasi70-source.github.io/akdevelpor/about.html</loc>
   </url>
 
   <url>
-    <loc>https://tatvmasi70-source.github.io/ak website develpor/services.html</loc>
+    <loc>https://tatvmasi70-source.github.io/akdevelpor/service.html</loc>
   </url>
 
   <url>
-    <loc>https://tatvmasi70-source.github.io/ak website develpor/portfolio.html</loc>
+    <loc>https://tatvmasi70-source.github.io/akdevelpor/portfolio.html</loc>
   </url>
 
   <url>
-    <loc>https://tatvmasi70-source.github.io/ak website develpor/contact.html</loc>
+    <loc>https://tatvmasi70-source.github.io/akdevelpor/gallery.html</loc>
+  </url>
+
+  <url>
+    <loc>https://tatvmasi70-source.github.io/akdevelpor/contact.html</loc>
   </url>
 
 </urlset>
